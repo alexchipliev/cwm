@@ -19,7 +19,7 @@
   "dependencies": {
     "@mdi/js": "^5.1.45",
     "chota": "^0.7.2",
-    "rollup-plugin-postcss": "^2.9.0",
+    "rollup-plugin-postcss": "^4.0.2",
     "sirv-cli": "^0.4.4",
     "svelte-chota": "^1.7.1"
   }
